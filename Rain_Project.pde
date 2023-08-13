@@ -20,5 +20,8 @@ for (int i = 0; i < drops.length; i++)  {
  }
   
   
-  
+}
+
+void show() {
+  background(122,111,255);
 }
